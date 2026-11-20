@@ -2,27 +2,20 @@
   "name": "ORDEN 1.21.11",
   "mc": "1.21.11",
   "loader": "Fabric",
-  "rev": 1,
+  "rev": 2,
   "history": [
     {
       "rev": 1,
       "when": "2026-11-18 19:27",
       "note": "Первый выпуск сборки"
+    },
+    {
+      "rev": 2,
+      "when": "2026-11-20 23:28",
+      "note": "zz",
+      "by": "aqq3386-collab"
     }
   ],
   "news": null,
-  "mods": [
-    {
-      "name": "example-mod-1",
-      "file": "example-mod-1.jar",
-      "sha256": "dbbbce10a2872959d47660d0f6684a96f1167861cab80704c6eca15ac2d0b68e",
-      "size": 8
-    },
-    {
-      "name": "example-mod-2",
-      "file": "example-mod-2.jar",
-      "sha256": "44396b243c9d31e3e22c48846757c716385efa87d471b2ae10f41a16d98622e2",
-      "size": 8
-    }
-  ]
+  "mods": []
 }
