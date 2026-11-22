@@ -2,7 +2,7 @@
   "name": "ORDEN 1.21.11",
   "mc": "1.21.11",
   "loader": "Fabric",
-  "rev": 3,
+  "rev": 4,
   "history": [
     {
       "rev": 1,
@@ -19,6 +19,12 @@
       "rev": 3,
       "when": "2026-11-22 12:07",
       "note": "Первая версия сборки.",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 4,
+      "when": "2026-11-22 17:28",
+      "note": "Обновил Orden Client",
       "by": "aqq3386-collab"
     }
   ],
@@ -89,12 +95,6 @@
       "file": "modmenu-17.0.1-1.21.11.jar",
       "sha256": "2eb2d6db9964fcf2e44e2be1e4d172b8c4e829e385c8f31636de94a1708c2076",
       "size": 960882
-    },
-    {
-      "name": "ordenclient-1.0.0+1.21.11",
-      "file": "ordenclient-1.0.0+1.21.11.jar",
-      "sha256": "ac78c659cf16157941ae8da2c38712e0ded0fbde4d5d73291f1cbd0fca2623d2",
-      "size": 768041
     },
     {
       "name": "sodium-fabric-0.8.14-mc1.21.11",
