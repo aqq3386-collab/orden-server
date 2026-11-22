@@ -2,7 +2,7 @@
   "name": "ORDEN 1.21.11",
   "mc": "1.21.11",
   "loader": "Fabric",
-  "rev": 5,
+  "rev": 6,
   "history": [
     {
       "rev": 1,
@@ -31,6 +31,12 @@
       "rev": 5,
       "when": "2026-11-22 17:30",
       "note": "Обновил Orden Client",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 6,
+      "when": "2026-11-22 20:03",
+      "note": "Добавлен MouseTweaks и SimpleVoiceChat",
       "by": "aqq3386-collab"
     }
   ],
@@ -103,6 +109,12 @@
       "size": 960882
     },
     {
+      "name": "MouseTweaks-fabric-mc1.21.11-2.30",
+      "file": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "sha256": "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6",
+      "size": 75618
+    },
+    {
       "name": "ordenclient-1.0.0+1.21.11",
       "file": "ordenclient-1.0.0+1.21.11.jar",
       "sha256": "8bd4a6cd41296676fe17234885687b27237496d44cd4fcc6405d637919e9ba85",
@@ -125,6 +137,12 @@
       "file": "ukulib-1.10.2+1.21.11.jar",
       "sha256": "3af87dbb2b84f0cb5bc21da5fa3818d22780e30c8b6c02cce7afa37847b89aaf",
       "size": 464276
+    },
+    {
+      "name": "voicechat-fabric-1.21.11-2.6.26",
+      "file": "voicechat-fabric-1.21.11-2.6.26.jar",
+      "sha256": "d4088ddae36984293617346457bcd31cc19f60b91ba7bebf5ea9753d9195ec3e",
+      "size": 5609464
     },
     {
       "name": "xaerominimap-fabric-1.21.11-26.6.2",
