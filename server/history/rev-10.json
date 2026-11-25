@@ -1,0 +1,190 @@
+{
+  "name": "ORDEN 1.21.11",
+  "mc": "1.21.11",
+  "loader": "Fabric",
+  "rev": 10,
+  "history": [
+    {
+      "rev": 1,
+      "when": "2026-11-18 19:27",
+      "note": "Первый выпуск сборки"
+    },
+    {
+      "rev": 2,
+      "when": "2026-11-20 23:28",
+      "note": "zz",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 3,
+      "when": "2026-11-22 12:07",
+      "note": "Первая версия сборки.",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 4,
+      "when": "2026-11-22 17:28",
+      "note": "Обновил Orden Client",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 5,
+      "when": "2026-11-22 17:30",
+      "note": "Обновил Orden Client",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 6,
+      "when": "2026-11-22 20:03",
+      "note": "Добавлен MouseTweaks и SimpleVoiceChat",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 7,
+      "when": "2026-11-22 23:09",
+      "note": "Убран OrdenClient для патча",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 8,
+      "when": "2026-11-22 23:11",
+      "note": "Патч OrdenClient: Исправлен Fullbright",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 9,
+      "when": "2026-11-25 11:26",
+      "note": "Убрал OrdenClient для обновления",
+      "by": "aqq3386-collab"
+    },
+    {
+      "rev": 10,
+      "when": "2026-11-25 11:30",
+      "note": "Быстрые слоты, автореконнект, отображение рук и предметов в руке, высота отображения огня, скрины с редактором, чат+",
+      "by": "aqq3386-collab"
+    }
+  ],
+  "news": null,
+  "mods": [
+    {
+      "name": "appleskin-fabric-mc1.21.11-3.0.8",
+      "file": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+      "sha256": "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3",
+      "size": 180107
+    },
+    {
+      "name": "bettershieldsounds-1.9.2+mc1.21.11",
+      "file": "bettershieldsounds-1.9.2+mc1.21.11.jar",
+      "sha256": "b38bc90caaf8b9a1d489faa67193c766fe4ef5a387de557ef69af24306751734",
+      "size": 36898
+    },
+    {
+      "name": "bobby-5.2.11.1+mc1.21.11",
+      "file": "bobby-5.2.11.1+mc1.21.11.jar",
+      "sha256": "50603db67f7626f7ccdeafe8f6de294c3de88cb90981e5f88946b3ca4a055515",
+      "size": 872033
+    },
+    {
+      "name": "chunksfadein-fabric-3.0.25-1.21.11",
+      "file": "chunksfadein-fabric-3.0.25-1.21.11.jar",
+      "sha256": "bf2bb53a4b301feb9bb685d2d65841d0a6bdff815d2385c572873d5fd1d6917b",
+      "size": 480691
+    },
+    {
+      "name": "CreativeCore_FABRIC_v2.14.11_mc1.21.11",
+      "file": "CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+      "sha256": "a8e759b023b2de920022d32d1e09bd3c6c9ad32546ccc114f1951100c58984d8",
+      "size": 1392373
+    },
+    {
+      "name": "fabric-api-0.141.6+1.21.11",
+      "file": "fabric-api-0.141.6+1.21.11.jar",
+      "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f",
+      "size": 2426039
+    },
+    {
+      "name": "hitboxplus-1.0.0+1.21.11",
+      "file": "hitboxplus-1.0.0+1.21.11.jar",
+      "sha256": "019c4abe5e66281a8ac8c8e7a6d4b6ca188dc108c313068449845a603c80d093",
+      "size": 111011
+    },
+    {
+      "name": "IAS-9.0.8-1.21.11-fabric",
+      "file": "IAS-9.0.8-1.21.11-fabric.jar",
+      "sha256": "418710022da7893a376b4bbe7be6f77ebf89b26fe562e609237584963609c49b",
+      "size": 320896
+    },
+    {
+      "name": "iris-fabric-1.10.8-mc1.21.11",
+      "file": "iris-fabric-1.10.8-mc1.21.11.jar",
+      "sha256": "5b6b5124c74407ffe4945f8da61491731cbf697f0bba4b14257e0ff977dac087",
+      "size": 2807718
+    },
+    {
+      "name": "ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11",
+      "file": "ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar",
+      "sha256": "d8381567830b175a8ac57094cca76691b7b0c64bb2f4d59c68dd85957d5768ed",
+      "size": 26771
+    },
+    {
+      "name": "modmenu-17.0.1-1.21.11",
+      "file": "modmenu-17.0.1-1.21.11.jar",
+      "sha256": "2eb2d6db9964fcf2e44e2be1e4d172b8c4e829e385c8f31636de94a1708c2076",
+      "size": 960882
+    },
+    {
+      "name": "MouseTweaks-fabric-mc1.21.11-2.30",
+      "file": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+      "sha256": "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6",
+      "size": 75618
+    },
+    {
+      "name": "ordenclient-1.0.0+1.21.11",
+      "file": "ordenclient-1.0.0+1.21.11.jar",
+      "sha256": "0868cc5b798417937a03047907a06616960629f2a908a88a70008a29204a5c1c",
+      "size": 874323
+    },
+    {
+      "name": "sodium-fabric-0.8.14-mc1.21.11",
+      "file": "sodium-fabric-0.8.14-mc1.21.11.jar",
+      "sha256": "fd2619eff5da6b9ba6304b8b72ac3fe132c30e0bd5d675e4581eda417a272f5d",
+      "size": 1909150
+    },
+    {
+      "name": "sodium-fabric-0.8.15-beta.1mc1.21.11",
+      "file": "sodium-fabric-0.8.15-beta.1mc1.21.11.jar",
+      "sha256": "f0bd613154a9ed0712d1d8aa62f1de3fb0fc1e76b4edc37f1250679007029775",
+      "size": 1914874
+    },
+    {
+      "name": "ukulib-1.10.2+1.21.11",
+      "file": "ukulib-1.10.2+1.21.11.jar",
+      "sha256": "3af87dbb2b84f0cb5bc21da5fa3818d22780e30c8b6c02cce7afa37847b89aaf",
+      "size": 464276
+    },
+    {
+      "name": "voicechat-fabric-1.21.11-2.6.26",
+      "file": "voicechat-fabric-1.21.11-2.6.26.jar",
+      "sha256": "d4088ddae36984293617346457bcd31cc19f60b91ba7bebf5ea9753d9195ec3e",
+      "size": 5609464
+    },
+    {
+      "name": "xaerominimap-fabric-1.21.11-26.6.2",
+      "file": "xaerominimap-fabric-1.21.11-26.6.2.jar",
+      "sha256": "6bb70d330684d428a3a171a5f66f042df09c0e90bc332b0ee3fdd86e3fd70f00",
+      "size": 2204205
+    },
+    {
+      "name": "xaeroworldmap-fabric-1.21.11-1.47.2",
+      "file": "xaeroworldmap-fabric-1.21.11-1.47.2.jar",
+      "sha256": "0509be09e85cc11fb7cf7130fbe79887fb5af80eee240567a976316fa949133f",
+      "size": 1473335
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric",
+      "file": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+      "sha256": "49c279bc28c80ca17d6c21c3dd299ec1c115b892272f21b3f034ed782829babd",
+      "size": 1126948
+    }
+  ]
+}
